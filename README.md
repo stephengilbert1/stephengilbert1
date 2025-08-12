@@ -1,4 +1,4 @@
-# Hi, I'm Stephen 👋
+# Hi, I'm Stephen 
 
 I’m a Mechatronics Engineer based in Vancouver, BC, with a background in new product development and automated manufacturing equipment. Over the past 7+ years I’ve worked across a mix of projects, often in roles where there’s no single right answer and you have to figure things out as you go. That’s the part of engineering I’ve always liked the most.
 
