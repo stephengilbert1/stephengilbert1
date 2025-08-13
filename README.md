@@ -1,8 +1,8 @@
 # Hi, I'm Stephen 
 
-I’m a Mechatronics Engineer based in Vancouver, BC, with a background in new product development and automated manufacturing equipment. Over the past 7+ years I’ve worked across a mix of projects, often in roles where there’s no single right answer and you have to figure things out as you go. That’s the part of engineering I’ve always liked the most.
+I’m a Mechatronics Engineer based in Vancouver, BC, with a background in multidisciplinary engineering. Over the past 7+ years I’ve worked across a mix of projects including new product development (digitial and mechanical), manufacturing and automation.
 
-These days I’ve been spending time building software — web apps, data tools, and experiments with AI — especially where they overlap with real engineering problems. A lot of what I build starts with “wouldn’t it be useful if…” and then I see how far I can take it.
+These days I’ve been spending time building software — web apps, data tools, and experiments with AI — especially where they overlap with solving real world techncial problems I encounter in industry.
 
 ## What I’ve been working with
 
