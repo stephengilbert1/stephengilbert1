@@ -2,7 +2,7 @@
 
 I’m a Mechatronics Engineer based in Vancouver, BC, with a background in multidisciplinary engineering. Over the past 7+ years I’ve worked across a mix of projects including new product development (digitial and mechanical), manufacturing and automation.
 
-These days I’ve been spending time building software — web apps, data tools, and experiments with AI — especially where they overlap with solving real world techncial problems I encounter in industry.
+These days I’ve been spending time building software including web apps, data tools, and experiments with Machine Learning, especially where they overlap with solving real world techncial problems I encounter in industry.
 
 ## What I’ve been working with
 
