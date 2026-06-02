@@ -1,24 +1,62 @@
-# Hi, I'm Stephen 
+# Stephen Gilbert
 
-I’m a Mechatronics Engineer based in Vancouver, BC, with a background in multidisciplinary engineering. Over the past 7+ years I’ve worked across a mix of projects including new product development (digitial and mechanical), manufacturing and automation.
+Over the past 8+ years I've worked on a mix of engineering projects spanning product development, manufacturing, automation, testing, and electrical utility equipment. Along the way I've found myself increasingly drawn to the data side of engineering using software, analytics, and automation to better understand systems and solve practical problems.
 
-These days I’ve been spending time building software including web apps, data tools, and experiments with Machine Learning, especially where they overlap with solving real world techncial problems I encounter in industry.
+Recently I've been focused on building data and software projects that combine engineering knowledge with modern development tools. My interests include data analysis, machine learning, robotics, and creating applications that help turn complex technical information into useful insights.
 
-## What I’ve been working with
+##What I've been working with
 
-- **Code:** TypeScript, Python, React, Next.js, Tailwind CSS
-- **Data & APIs:** PostgreSQL, Supabase, Prisma, GraphQL
-- **AI & Analysis:** OpenAI API, Pandas, FastAPI, data visualisation tools
-- **Other tools:** Git, Vercel, Node.js, MATLAB
+###Programming
 
-## A few projects
+-Python
+-SQL
+-TypeScript
+-React
+-Next.js
 
-- **Transformer Dashboard** – Real-time temperature tracking and visualisation for electrical utility equipment
-- **Oil Expansion Calculator** – Predicts transformer oil level changes under different temperatures
-- **Ski DIN Calculator** – Calculates ski binding settings to ISO 11088
-- **MTB Tire Pressure Estimator** – Helps riders tune their tyre pressure for conditions
-- **Data Pipeline Experiments** – Prototypes for automating reports and analysis
+###Data & Analytics
 
-## Right now
+-Pandas
+-PostgreSQL
+-Data visualization
+-Statistical analysis
+-Machine learning fundamentals
 
-I’m spending more time on AI-powered data processing, and on building full-stack apps that solve specific, real-world problems. Some of these are linked to my day-to-day engineering work, others are just things I’ve wanted to try for fun.
+###Backend & APIs
+
+-FastAPI
+-GraphQL
+-Supabase
+-Prisma
+
+###Tools
+
+-Git
+-Docker
+-Vercel
+-MATLAB
+
+##Projects
+###Transformer Temperature Dashboard
+
+Built a dashboard for monitoring and visualizing transformer temperature data, helping engineers better understand equipment performance and thermal behaviour.
+
+###Transformer Oil Expansion Calculator
+
+Developed a tool to predict oil level changes across operating temperatures and support engineering analysis.
+
+###Ski DIN Calculator
+
+Implemented ISO 11088 calculations in a web application for determining recommended ski binding settings.
+
+###MTB Tire Pressure Estimator
+
+Created a calculator that estimates tire pressures based on rider, bike, and terrain characteristics.
+
+###Data & Automation Experiments
+
+Exploring data pipelines, reporting automation, machine learning workflows, and engineering analytics using Python and modern data tools.
+
+##Current Focus
+
+I'm currently building projects that sit at the intersection of engineering, data, and software. My goal is to continue growing toward data analyst, data science, and robotics-oriented roles while leveraging the domain knowledge I've developed through years of engineering work.
